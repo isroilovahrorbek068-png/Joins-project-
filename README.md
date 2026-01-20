@@ -1,4 +1,4 @@
-# SQL JOINs Practice Project
+#  This project is part of my SQL learning journey and demonstrates practical JOIN usage for data analysis.
 
 ## 📌 Description
 
